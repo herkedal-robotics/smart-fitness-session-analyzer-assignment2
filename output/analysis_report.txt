@@ -1,0 +1,75 @@
+Session: FIT-2026-001
+Participant: P001
+Valid observations: 6
+Invalid observations: 0
+
+Minimum heart rate: 68.00 bpm
+Maximum heart rate: 70.00 bpm
+Average heart rate: 68.83 bpm
+Heart rate change: 0.83 bpm
+Average temp change: 0.03 C
+Average activity level: 0.09
+
+Classification: resting
+Explanation: Average activity was low, average heart rate was close to baseline.
+
+Session: FIT-2026-002
+Participant: P002
+Valid observations: 6
+Invalid observations: 0
+
+Minimum heart rate: 78.00 bpm
+Maximum heart rate: 118.00 bpm
+Average heart rate: 102.00 bpm
+Heart rate change: 28.00 bpm
+Average temp change: 0.43 C
+Average activity level: 0.50
+
+Classification: moderate_activity
+Explanation: Average activity level was between 0.3-0.6.
+
+Session: FIT-2026-003
+Participant: P003
+Valid observations: 6
+Invalid observations: 0
+
+Minimum heart rate: 72.00 bpm
+Maximum heart rate: 162.00 bpm
+Average heart rate: 132.50 bpm
+Heart rate change: 69.50 bpm
+Average temp change: 1.23 C
+Average activity level: 0.75
+
+Classification: high_activity
+Explanation: Average activity level was over 0.6.
+
+Session: FIT-2026-004
+Participant: P001
+Valid observations: 6
+Invalid observations: 0
+
+Minimum heart rate: 72.00 bpm
+Maximum heart rate: 151.00 bpm
+Average heart rate: 113.17 bpm
+Heart rate change: 45.17 bpm
+Average temp change: 0.88 C
+Average activity level: 0.55
+
+Classification: moderate_activity
+Explanation: Average activity level was between 0.3-0.6.
+
+Session: FIT-2026-005
+Participant: P002
+Valid observations: 0
+Invalid observations: 5
+
+Minimum heart rate: N/A bpm
+Maximum heart rate: N/A bpm
+Average heart rate: N/A bpm
+Heart rate change: N/A bpm
+Average temp change: N/A C
+Average activity level: N/A
+
+Classification: insufficient_data
+Explanation: Not enough valid observations were available.
+

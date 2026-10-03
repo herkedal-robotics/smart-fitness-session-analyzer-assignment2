@@ -1,0 +1,6 @@
+session_id,participant_id,valid_observations,invalid_observations,minimum_heart_rate,maximum_heart_rate,average_heart_rate,heart_rate_change,average_temp_change,average_activity_level,classification,classification_explanation
+FIT-2026-001,P001,6,0,68,70,68.83333333333333,0.8333333333333286,0.03333333333333144,0.09333333333333334,resting,"Average activity was low, average heart rate was close to baseline."
+FIT-2026-002,P002,6,0,78,118,102.0,28.0,0.43333333333333,0.49500000000000005,moderate_activity,Average activity level was between 0.3-0.6.
+FIT-2026-003,P003,6,0,72,162,132.5,69.5,1.2333333333333343,0.7466666666666667,high_activity,Average activity level was over 0.6.
+FIT-2026-004,P001,6,0,72,151,113.16666666666667,45.16666666666667,0.8833333333333329,0.5466666666666666,moderate_activity,Average activity level was between 0.3-0.6.
+FIT-2026-005,P002,0,5,,,,,,,insufficient_data,Not enough valid observations were available.
